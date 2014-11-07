@@ -1,0 +1,14 @@
+body{
+	background-color: #6B99FA;
+	width: 1000px;
+}
+
+.wrapper{
+	width: 750px;
+	text-align: justify;
+}
+
+#solar-left{
+	float: left;
+	margin-right: 50px;
+}

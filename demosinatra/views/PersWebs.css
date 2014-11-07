@@ -1,0 +1,56 @@
+body{
+	background-color: #6B99FA;
+}
+.wrapper{
+	text-align: right;
+	width: 1000px;
+}
+
+a:hover{
+	text-decoration: overline;
+}
+
+.sidebar-left{
+	width: 200px;
+	float: left;
+}
+
+.sidebar-right{
+	width: 100px;
+	float: right;
+}
+
+.Primer{
+	text-align: center;
+	width: 1350px;
+	font-family: monospace;
+	font-size: 18px;
+}
+
+#Main-Content{
+	float: left;
+	font-family: monospace;
+	font-size: 15px;
+}
+
+.HiddenFunFact{
+	color: #6B99FA;
+}
+.HiddenFunFact:hover{
+	color: black;
+}
+
+#Time-Warp{
+	list-style: none;
+	font-size: 35px;
+}
+
+button{
+	width: 120px;
+	height: 35px;
+	text-align: center;
+	font-family: monospace; 
+	background-color: #6B99FA;
+	border-radius: 30px;
+}
+
